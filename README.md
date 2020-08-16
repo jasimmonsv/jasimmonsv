@@ -1,73 +1,33 @@
 # J.A. Simmons V
-v1.0.1-20200815 - #OpenForWork
+:construction_worker: #OpenForWork
+J.A. Simmons V is an entrepreneur, autodidact, and polymath with a penchant for security, design and above all, usefulness.
 
-This document is a method for team members to get to know me at scale, where I will share my expectations on how to work with me and how I will try to work with you. This is an intro into my mind and how I like to operate: my mental and operational frameworks. I believe that these topics would help you become more effective and reduce managerial overhead on my side. This document is written in the style of a project README.md.
+He is an experienced IT professional with 15+ years system administration, 18+ years computer security, 15+ years programming and software development, and 18+ years leadership and management experience. Always interested in good ideas, brilliant people, and leadership.
 
-## Getting Started
+## Follow Me
+![](https://img.shields.io/keybase/pgp/jasimmonsv)
+![](https://img.shields.io/badge/-LinkedIn-informational?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/jasimmonsv)
+![](https://img.shields.io/badge/-Instagram-informational?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/jasimmonsv/)
 
-Between Texas high-school football and 5 years in the Navy, I am accustom to being called Simmons. Just Simmons. My wife, my family and people who do not know me call me by my first name.
 
-I spent 5 years in the Navy, and that is where a lot of my first management experiences where formed. E.g., I always try to be 10 minutes early to every meeting. If you are on time and I am not on the call, something in my usual system (detailed below) has failed and I have forgot. Ping me; Remind me that I am suppose to be meeting you somewhere. With that said, if you are late, I will also ping you, but I will leave that meeting 10 minutes after the start time.
 
-### Prerequisites
 
-Each team has a different culture, a different mood, etc. I do not manage the same way for everyone, but I always lead the same way.
+## Technologies & Tools
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white)
+![](https://img.shields.io/badge/Editor-VIM-informational?style=flat&logo=vim&logoColor=white)
+![](https://img.shields.io/badge/Editor-Pycharm-informational?style=flat&logo=pycharm&logoColor=white)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&link=https://github.com/jasimmonsv?tab=repositories&language=python)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&link=https://github.com/jasimmonsv?tab=repositories&language=javascript)
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&link=https://github.com/jasimmonsv?tab=repositories&language=javas)
+![](https://img.shields.io/badge/Library-Angular-informational?style=flat&logo=angular&logoColor=white)
+![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&link=https://github.com/jasimmonsv?tab=repositories&language=bash)
+![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white)
+![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white)
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white)
+![](https://img.shields.io/badge/Cloud-Amazon_AWS-informational?style=flat&logo=amazon-aws&logoColor=white)
+![](https://img.shields.io/badge/Repos-Gitlab-informational?style=flat&logo=gitlab&logoColor=white&link=https://github.com/jasimmonsv)
+![](https://img.shields.io/badge/Repos-Github-informational?style=flat&logo=github&logoColor=white&link=https://gitlab.com/jasimmonsv)
+<!-- ![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a) -->
 
-### Installing
-<!-- [![Top Langs](github-readme-stats-git-master.redkeep.vercel.app/api/top-langs/?username=jasimmonsv&hide=php)](https://github.com/jasimmonsv/github-readme-stats) -->
-
-You have joined my team, two things should definitely appear on your calendar by now. One is the weekly team meeting where we cover status reports, roadblocks, general brainstorming, and cover any gossip, rumors, and lies the team has heard. Two is the weekly 1:1 between you and me. I will do everything I can to not miss this 1:1; it is that important as the only guaranteed time I have with you. We will discuss any problems you are having (technical, performance, career). This is not a status meeting. This is a chance for you to have a serious discussion with me, and as such it will be at least 30 minutes long; real conversations take time.
-
-I do not believe in daily/weekly status reports; I should be able to get that information out of JIRA and save both of our time. If I cannot get that information out of JIRA, then YOU have a problem. Figure out how to account for your time within JIRA. If there is a technical limitation with JIRA in capturing your time, you need to tell me about it and then WE have a problem.
-
-## Deployment
-
-📫 How to reach me: simmonsj@jasimmonsv.com || simmonsj@redkeep.com
-
-Feel free to reach me through [LinkedIn](https://linkedin.com/in/jasimmonsv)
-
-My job is:
-1. Build, maintain, and own services that are folded under my umbrella
-2. Set context
-
-### On Feedback
-I love feedback. Feedback is critical to your success and mine. There are three dimensions which are required for people to continue to give you good feedback:
-1) Safety - people should feel safe against retaliation for giving feedback
-2) Effort - the amount of work to give feedback, (e.g., don't argue when people give you feedback; question yes, arguments no)
-3) Benefit - being given feedback should provide some measurable change;
-I will let you know if you do not do well on any of these three dimensions. I also want to know if I don't do well on any of these three dimensions. Feel free to throw this README in my face if I fail.
-
-### Order of Communication
-(Most checked -> Good luck reaching me)
-Phone call -> SMS text -> GChat/Discord -> Email -> Package delivery -> Carrier Pidgeon -> Lync/Skype
-
-*This also follows my order of urgency*
-
-### Want to talk? Lets talk
-If something comes up, do not wait till our weekly 1:1. Reach out to me following my Order of Communication. I do a bunch of things, and very few of them are more important then spending time talking to someone who needs to talk to me.
-
-### My System
-I try my best to trend towards efficiency. Because of that I try new methods, I research new ideas, and I experiment to find something that fits all my needs. Right now my system is largely based on Getting Things Done by David Allen. My system relies heavily on simple technologies and building a ritual/habit. It is not perfect, but it is a constant work in progress. Because of this, I trend towards more asymmetric communication. I try to check emails only twice a day, and I practice Inbox Zero, where I have actioned or captured tasks in other systems / folders and delete emails from my inbox and live out of my task tracking app (a combination between Jira and Todoist). This is a system that has evolved with me over the past decade, and I do not expect anyone else to adhere to my system.
-
-What all this means is for you working with me is that: no, I do not have that email you sent me last year; no, I do not remember what exactly was said at that meeting last month unless there are meeting minutes; yes, I have the action list that I derived and I can tell you the state that those action items are in; If it is urgent, you need to use my Order of Communication to bring it to my attention. Sending me an email will sit there for a few hours. If I am already working on something, I am not watching new emails, tickets, tasks, pings, dings, or alarms. I am well enveloped into the zone of getting things done, and when I stop for more coffee or a bathroom break is the only window of time that I may allow something new to enter into my carefully quarantined zone. This is all a result of my current job function, and will evolve as my job evolves.
-
-## Acknowledgments
-
-* [Rand's Leadership Slack where I discovered this idea of a Management README](http://randsinrepose.com/welcome-to-rands-leadership-slack/)
-* US Navy and Petty Officer training
-* Trials and tribulations of life
-
-<!--
-**jasimmonsv/jasimmonsv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Stats
+Personal Website: ![](https://img.shields.io/uptimerobot/ratio/m785768336-41c02c4995def8589a686cb2)
