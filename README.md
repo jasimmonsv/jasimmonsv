@@ -1,5 +1,6 @@
 # J.A. Simmons V
 :construction_worker: #OpenForWork
+
 J.A. Simmons V is an entrepreneur, autodidact, and polymath with a penchant for security, design and above all, usefulness.
 
 He is an experienced IT professional with 15+ years system administration, 18+ years computer security, 15+ years programming and software development, and 18+ years leadership and management experience. Always interested in good ideas, brilliant people, and leadership.
