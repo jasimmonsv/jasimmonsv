@@ -5,30 +5,33 @@ J.A. Simmons V is an entrepreneur, autodidact, and polymath with a penchant for 
 He is an experienced IT professional with 15+ years system administration, 18+ years computer security, 15+ years programming and software development, and 18+ years leadership and management experience. Always interested in good ideas, brilliant people, and leadership.
 
 ## Follow Me
-![KeyBase](https://img.shields.io/keybase/pgp/jasimmonsv)
-[![LinkedIn](https://img.shields.io/badge/-Linkedin-informational?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/jasimmonsv)](https://linkedin.com/in/jasimmonsv)
-[![](https://img.shields.io/badge/-Instagram-informational?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/jasimmonsv/)](https://www.instagram.com/jasimmonsv/)
-[![](https://img.shields.io/badge/-Twitter-informational?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/jasimmonsv)](https://twitter.com/jasimmonsv)
+[![KeyBase](https://img.shields.io/keybase/pgp/jasimmonsv?color=33A0FF)](https://keybase.io/jasimmonsv)
+[![LinkedIn](https://img.shields.io/badge/-Linkedin-informational?style=flat-square&logo=Linkedin&logoColor=white&color=0077B5&link=https://linkedin.com/in/jasimmonsv)](https://linkedin.com/in/jasimmonsv)
+[![Instagram](https://img.shields.io/badge/-Instagram-?style=flat-square&logo=Instagram&logoColor=white&color=F00075&link=https://www.instagram.com/jasimmonsv/)](https://www.instagram.com/jasimmonsv/)
+[![Twitter](https://img.shields.io/badge/-Twitter-informational?style=flat-square&logo=Twitter&logoColor=white&color=1DA1F2&link=https://twitter.com/jasimmonsv)](https://twitter.com/jasimmonsv)
 
 
 
 
-## Technologies & Tools
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white)
-![](https://img.shields.io/badge/Editor-VIM-informational?style=flat&logo=vim&logoColor=white)
-![](https://img.shields.io/badge/Editor-Pycharm-informational?style=flat&logo=pycharm&logoColor=white)
-[![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white)](https://github.com/jasimmonsv?tab=repositories&language=python)
-[![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white)](https://github.com/jasimmonsv?tab=repositories&language=javascript)
-[![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white)](https://github.com/jasimmonsv?tab=repositories&language=java)
-![](https://img.shields.io/badge/Library-Angular-informational?style=flat&logo=angular&logoColor=white)
-[![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white)](https://github.com/jasimmonsv?tab=repositories&language=bash)
-![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white)
-![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white)
-![](https://img.shields.io/badge/Cloud-Amazon_AWS-informational?style=flat&logo=amazon-aws&logoColor=white)
-[![](https://img.shields.io/badge/Repos-Gitlab-informational?style=flat&logo=gitlab&logoColor=white)](https://github.com/jasimmonsv)
-[![](https://img.shields.io/badge/Repos-Github-informational?style=flat&logo=github&logoColor=white)](https://gitlab.com/jasimmonsv)
+## Tools
+![OS-Linux](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white)
+![Editor-VIM](https://img.shields.io/badge/Editor-VIM-informational?style=flat&logo=vim&logoColor=white)
+![Editor-Pycharm](https://img.shields.io/badge/Editor-Pycharm-informational?style=flat&logo=pycharm&logoColor=white)
+![Library-Angular](https://img.shields.io/badge/Library-Angular-informational?style=flat&logo=angular&logoColor=white)
+![Tools-Git](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white)
+![Tools-PostgreSQL](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white)
+![Tools-Docker](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white)
+![Cloud-AWS](https://img.shields.io/badge/Cloud-Amazon_AWS-informational?style=flat&logo=amazon-aws&logoColor=white)
+[![Repos-Gitlab](https://img.shields.io/badge/Repos-Gitlab-informational?style=flat&logo=gitlab&logoColor=white)](https://gitlab.com/jasimmonsv)
+[![Repos-Github](https://img.shields.io/badge/Repos-Github-informational?style=flat&logo=github&logoColor=white)](https://github.com/jasimmonsv)
 <!-- ![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a) -->
+
+## Languages
+[![Code-Python](https://img.shields.io/badge/Code-Python-success?style=flat&logo=python&logoColor=white)](https://github.com/jasimmonsv?tab=repositories&language=python)
+[![Code-Javascript](https://img.shields.io/badge/Code-JavaScript-success?style=flat&logo=javascript&logoColor=white)](https://github.com/jasimmonsv?tab=repositories&language=javascript)
+[![Code-Java](https://img.shields.io/badge/Code-Java-success?style=flat&logo=java&logoColor=white)](https://github.com/jasimmonsv?tab=repositories&language=java)
+[![Shell-Bash](https://img.shields.io/badge/Shell-Bash-success?style=flat&logo=gnu-bash&logoColor=white)](https://github.com/jasimmonsv?tab=repositories&language=bash)
+
 
 ## Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jasimmonsv&layout=compact&hide=php)](https://github.com/jasimmonsv)
