@@ -11,8 +11,11 @@ He is an experienced IT professional with 15+ years system administration, 18+ y
 [![Instagram](https://img.shields.io/badge/-Instagram-information?style=flat-square&logo=Instagram&logoColor=white&color=F00075&link=https://www.instagram.com/jasimmonsv/)](https://www.instagram.com/jasimmonsv/)
 [![Twitter](https://img.shields.io/badge/-Twitter-informational?style=flat-square&logo=Twitter&logoColor=white&color=1DA1F2&link=https://twitter.com/jasimmonsv)](https://twitter.com/jasimmonsv)
 
-
-
+## Languages
+[![Code-Python](https://img.shields.io/badge/Code-Python-success?style=flat&logo=python&logoColor=white)](https://github.com/jasimmonsv?tab=repositories&language=python)
+[![Code-Javascript](https://img.shields.io/badge/Code-JavaScript-success?style=flat&logo=javascript&logoColor=white)](https://github.com/jasimmonsv?tab=repositories&language=javascript)
+[![Code-Java](https://img.shields.io/badge/Code-Java-success?style=flat&logo=java&logoColor=white)](https://github.com/jasimmonsv?tab=repositories&language=java)
+[![Shell-Bash](https://img.shields.io/badge/Shell-Bash-success?style=flat&logo=gnu-bash&logoColor=white)](https://github.com/jasimmonsv?tab=repositories&language=bash)
 
 ## Tools
 ![OS-Linux](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white)
@@ -26,13 +29,6 @@ He is an experienced IT professional with 15+ years system administration, 18+ y
 [![Repos-Gitlab](https://img.shields.io/badge/Repos-Gitlab-informational?style=flat&logo=gitlab&logoColor=white)](https://gitlab.com/jasimmonsv)
 [![Repos-Github](https://img.shields.io/badge/Repos-Github-informational?style=flat&logo=github&logoColor=white)](https://github.com/jasimmonsv)
 <!-- ![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a) -->
-
-## Languages
-[![Code-Python](https://img.shields.io/badge/Code-Python-success?style=flat&logo=python&logoColor=white)](https://github.com/jasimmonsv?tab=repositories&language=python)
-[![Code-Javascript](https://img.shields.io/badge/Code-JavaScript-success?style=flat&logo=javascript&logoColor=white)](https://github.com/jasimmonsv?tab=repositories&language=javascript)
-[![Code-Java](https://img.shields.io/badge/Code-Java-success?style=flat&logo=java&logoColor=white)](https://github.com/jasimmonsv?tab=repositories&language=java)
-[![Shell-Bash](https://img.shields.io/badge/Shell-Bash-success?style=flat&logo=gnu-bash&logoColor=white)](https://github.com/jasimmonsv?tab=repositories&language=bash)
-
 
 ## Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jasimmonsv&layout=compact&hide=php)](https://github.com/jasimmonsv)
