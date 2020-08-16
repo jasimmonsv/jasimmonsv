@@ -6,8 +6,8 @@ He is an experienced IT professional with 15+ years system administration, 18+ y
 
 ## Follow Me
 ![](https://img.shields.io/keybase/pgp/jasimmonsv)
-![](https://img.shields.io/badge/-LinkedIn-informational?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/jasimmonsv)
-![](https://img.shields.io/badge/-Instagram-informational?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/jasimmonsv/)
+[![](https://img.shields.io/badge/-LinkedIn-informational?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/jasimmonsv)](https://linkedin.com/in/jasimmonsv)
+[![](https://img.shields.io/badge/-Instagram-informational?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/jasimmonsv/)](https://www.instagram.com/jasimmonsv/)
 
 
 
