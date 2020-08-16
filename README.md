@@ -10,6 +10,9 @@ He is an experienced IT professional with 15+ years system administration, 18+ y
 [![LinkedIn](https://img.shields.io/badge/-Linkedin-informational?style=flat-square&logo=Linkedin&logoColor=white&color=0077B5&link=https://linkedin.com/in/jasimmonsv)](https://linkedin.com/in/jasimmonsv)
 [![Instagram](https://img.shields.io/badge/-Instagram-information?style=flat-square&logo=Instagram&logoColor=white&color=F00075&link=https://www.instagram.com/jasimmonsv/)](https://www.instagram.com/jasimmonsv/)
 [![Twitter](https://img.shields.io/badge/-Twitter-informational?style=flat-square&logo=Twitter&logoColor=white&color=1DA1F2&link=https://twitter.com/jasimmonsv)](https://twitter.com/jasimmonsv)
+[![Repos-Gitlab](https://img.shields.io/badge/Repos-Gitlab-informational?style=flat&logo=gitlab&logoColor=white)](https://gitlab.com/jasimmonsv)
+[![Repos-Github](https://img.shields.io/badge/Repos-Github-informational?style=flat&logo=github&logoColor=white)](https://github.com/jasimmonsv)
+
 
 ## Languages
 [![Code-Python](https://img.shields.io/badge/Code-Python-success?style=flat&logo=python&logoColor=white)](https://github.com/jasimmonsv?tab=repositories&language=python)
@@ -26,8 +29,6 @@ He is an experienced IT professional with 15+ years system administration, 18+ y
 ![Tools-PostgreSQL](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white)
 ![Tools-Docker](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white)
 ![Cloud-AWS](https://img.shields.io/badge/Cloud-Amazon_AWS-informational?style=flat&logo=amazon-aws&logoColor=white)
-[![Repos-Gitlab](https://img.shields.io/badge/Repos-Gitlab-informational?style=flat&logo=gitlab&logoColor=white)](https://gitlab.com/jasimmonsv)
-[![Repos-Github](https://img.shields.io/badge/Repos-Github-informational?style=flat&logo=github&logoColor=white)](https://github.com/jasimmonsv)
 <!-- ![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a) -->
 
 ## Stats
