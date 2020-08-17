@@ -38,6 +38,79 @@ He is an experienced IT professional with 15+ years system administration, 18+ y
 
 ### Waka time
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-69-blue)
+
+**🐱 My Github Data** 
+
+> 🏆 60 Contributions in the year 2020
+ > 
+> 📦 625.3 kB Used in Github's Storage 
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 61 Public repositories
+ > 
+> 🔑 20 Private repositories 
+
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning    8 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   7.55% 
+🌆 Daytime    40 commits     █████████░░░░░░░░░░░░░░░░   37.74% 
+🌃 Evening    47 commits     ███████████░░░░░░░░░░░░░░   44.34% 
+🌙 Night      11 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.38%
+
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday       13 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.26% 
+Tuesday      10 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.43% 
+Wednesday    26 commits     ██████░░░░░░░░░░░░░░░░░░░   24.53% 
+Thursday     11 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.38% 
+Friday       13 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.26% 
+Saturday     9 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   8.49% 
+Sunday       24 commits     █████░░░░░░░░░░░░░░░░░░░░   22.64%
+
+```
+
+
+📊 **This Week I Spend My Time On** 
+
+```text
+⌚︎ Time zone: America/Chicago
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Code Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
+**I Mostly Code in Python** 
+
+```text
+Python                   12 repos            ████████░░░░░░░░░░░░░░░░░   33.33% 
+Java                     7 repos             ████░░░░░░░░░░░░░░░░░░░░░   19.44% 
+JavaScript               5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.89% 
+PHP                      3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.33% 
+HTML                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.33%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://github.com/jasimmonsv/jasimmonsv/blob/master/charts/bar_graph.png) 
+
+
 <!--END_SECTION:waka-->
 
 ### Books
