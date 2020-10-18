@@ -81,16 +81,16 @@ Sunday       19 commits     ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-Markdown                 9 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-Vim                      9 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-til                      9 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    9 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
