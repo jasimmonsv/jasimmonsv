@@ -41,7 +41,7 @@ He is an experienced IT professional with 15+ years system administration, 18+ y
 <!--END_SECTION:waka-->
 
 ### Books
-Books I am reading: [![Books](https://img.shields.io/badge/-Reading_List-success?style=flat&logo=goodreads&logoColor=white&color=3A2110)](https://www.goodreads.com/review/list/2784493-j-a?shelf=currently-reading)
+[![Books](https://img.shields.io/badge/-Reading_List-success?style=flat&logo=goodreads&logoColor=white&color=3A2110)](https://www.goodreads.com/review/list/2784493-j-a?shelf=currently-reading)
 | Site | Status |
 | --- | --- |
 | [Personal Website](https://jasimmonsv.com) | ![](https://img.shields.io/uptimerobot/ratio/m785768336-41c02c4995def8589a686cb2) |
