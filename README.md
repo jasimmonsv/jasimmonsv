@@ -34,7 +34,7 @@ He is an experienced IT professional with 15+ years system administration, 18+ y
 ## Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jasimmonsv&layout=compact&hide=php)](https://github.com/jasimmonsv)
 
-[![jasimmonsv's github stats](https://github-readme-stats.vercel.app/api?username=jasimmonsv)](https://github.com/anuraghazra/github-readme-stats)
+[![jasimmonsv's github stats](https://github-readme-stats.vercel.app/api?username=jasimmonsv)](https://github.com/jasimmonsv/github-readme-stats)
 
 ### Waka time
 <!--START_SECTION:waka-->
