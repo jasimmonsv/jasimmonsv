@@ -48,9 +48,9 @@ He is an experienced IT professional with 15+ years system administration, 18+ y
  > 
 > 💼 Opted to Hire
  > 
-> 📜 63 Public Repositories
+> 📜 63 Public Repositories 
  > 
-> 🔑 22 Private Repositories 
+> 🔑 22 Private Repositories  
 
 **I'm an Early 🐤** 
 
