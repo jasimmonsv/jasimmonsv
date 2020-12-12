@@ -38,13 +38,13 @@ He is an experienced IT professional with 15+ years system administration, 18+ y
 
 ### Waka time
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 94 Contributions in the Year 2020
+> 🏆 95 Contributions in the Year 2020
  > 
-> 📦 626.0 kB Used in Github's Storage 
+> 📦 625.9 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -55,8 +55,8 @@ He is an experienced IT professional with 15+ years system administration, 18+ y
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    10 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.01% 
-🌆 Daytime    46 commits     ██████████░░░░░░░░░░░░░░░   41.44% 
+🌞 Morning    9 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   8.11% 
+🌆 Daytime    47 commits     ██████████░░░░░░░░░░░░░░░   42.34% 
 🌃 Evening    42 commits     █████████░░░░░░░░░░░░░░░░   37.84% 
 🌙 Night      13 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.71%
 
@@ -67,8 +67,8 @@ He is an experienced IT professional with 15+ years system administration, 18+ y
 Monday       10 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.01% 
 Tuesday      10 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.01% 
 Wednesday    32 commits     ███████░░░░░░░░░░░░░░░░░░   28.83% 
-Thursday     12 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.81% 
-Friday       20 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.02% 
+Thursday     11 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.91% 
+Friday       21 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.92% 
 Saturday     8 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   7.21% 
 Sunday       19 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.12%
 
