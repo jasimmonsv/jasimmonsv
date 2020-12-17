@@ -38,7 +38,7 @@ He is an experienced IT professional with 15+ years system administration, 18+ y
 
 ### Waka time
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 **🐱 My Github Data** 
 
@@ -51,7 +51,7 @@ He is an experienced IT professional with 15+ years system administration, 18+ y
 > 📜 63 Public Repositories 
  > 
 > 🔑 22 Private Repositories  
-
+ > 
 **I'm an Early 🐤** 
 
 ```text
@@ -81,18 +81,16 @@ Sunday       19 commits     ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-YAML                     5 mins              ████████████████░░░░░░░░░   64.57% 
-Markdown                 2 mins              ███████░░░░░░░░░░░░░░░░░░   28.49% 
-Text                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   6.95%
+No Activity Tracked This Week
 
 🔥 Editors: 
-Vim                      8 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Unknown Project          8 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    8 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
