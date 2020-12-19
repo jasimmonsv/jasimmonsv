@@ -42,7 +42,7 @@ He is an experienced IT professional with 15+ years system administration, 18+ y
 
 **🐱 My Github Data** 
 
-> 🏆 95 Contributions in the Year 2020
+> 🏆 96 Contributions in the Year 2020
  > 
 > 📦 625.9 kB Used in Github's Storage 
  > 
