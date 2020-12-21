@@ -42,7 +42,7 @@ He is an experienced IT professional with 15+ years system administration, 18+ y
 
 **🐱 My Github Data** 
 
-> 🏆 96 Contributions in the Year 2020
+> 🏆 98 Contributions in the Year 2020
  > 
 > 📦 625.9 kB Used in Github's Storage 
  > 
@@ -81,16 +81,17 @@ Sunday       19 commits     ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 13 mins             ████████████░░░░░░░░░░░░░   50.33% 
+JSON                     13 mins             ████████████░░░░░░░░░░░░░   49.67%
 
 🔥 Editors: 
-No Activity Tracked This Week
+Vim                      26 mins             █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+cookiecutter_packer      26 mins             █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    26 mins             █████████████████████████   100.0%
 
 ```
 
