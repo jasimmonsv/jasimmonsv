@@ -44,7 +44,7 @@ He is an experienced IT professional with 15+ years system administration, 18+ y
 
 > 🏆 100 Contributions in the Year 2020
  > 
-> 📦 626.0 kB Used in Github's Storage 
+> 📦 625.9 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
