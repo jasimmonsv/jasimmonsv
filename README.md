@@ -81,17 +81,16 @@ Sunday       5 commits      █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-Markdown                 2 mins              ███████████████████████░░   95.02% 
-Python                   0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   4.98%
+No Activity Tracked This Week
 
 🔥 Editors: 
-Vim                      2 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-jasimmonsv               2 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    2 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
