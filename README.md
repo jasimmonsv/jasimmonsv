@@ -38,7 +38,7 @@ He is an experienced IT professional with 15+ years system administration, 18+ y
 
 ### Waka time
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My Github Data** 
 
