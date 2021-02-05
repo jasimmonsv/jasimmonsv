@@ -67,8 +67,8 @@ He is an experienced IT professional with 15+ years system administration, 18+ y
 Monday       8 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   10.13% 
 Tuesday      10 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.66% 
 Wednesday    27 commits     ████████░░░░░░░░░░░░░░░░░   34.18% 
-Thursday     11 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.92% 
-Friday       20 commits     ██████░░░░░░░░░░░░░░░░░░░   25.32% 
+Thursday     12 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.19% 
+Friday       19 commits     ██████░░░░░░░░░░░░░░░░░░░   24.05% 
 Saturday     2 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.53% 
 Sunday       1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.27%
 
