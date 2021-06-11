@@ -38,7 +38,7 @@ He is an experienced IT professional with 15+ years system administration, 18+ y
 
 ### Waka time
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My Github Data** 
 
@@ -111,7 +111,7 @@ HTML                     3 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/jasimmonsv/jasimmonsv/main/charts/bar_graph.png) 
 
 
- Last Updated on 10/06/2021
+ Last Updated on 11/06/2021
 <!--END_SECTION:waka-->
 
 ### Books
