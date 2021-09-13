@@ -81,22 +81,16 @@ Sunday       19 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-Python                   40 mins             ████████████████████████░   97.69% 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.15% 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.15% 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.02% 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-PyCharmCore              41 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-AITrading                27 mins             ████████████████░░░░░░░░░   66.63% 
-testDiscordBot           9 mins              █████░░░░░░░░░░░░░░░░░░░░   23.17% 
-Unknown Project          4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   10.2%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  41 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -117,7 +111,7 @@ HTML                     3 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/jasimmonsv/jasimmonsv/main/charts/bar_graph.png) 
 
 
- Last Updated on 12/09/2021
+ Last Updated on 13/09/2021
 <!--END_SECTION:waka-->
 
 ### Books
