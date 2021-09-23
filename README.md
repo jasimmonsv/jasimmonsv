@@ -40,11 +40,11 @@ He is an experienced IT professional with 15+ years system administration, 18+ y
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-**🐱 My Github Data** 
+**🐱 My GitHub Data** 
 
 > 🏆 26 Contributions in the Year 2021
  > 
-> 📦 626.2 kB Used in Github's Storage 
+> 📦 626.2 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -111,7 +111,7 @@ HTML                     3 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/jasimmonsv/jasimmonsv/main/charts/bar_graph.png) 
 
 
- Last Updated on 22/09/2021
+ Last Updated on 23/09/2021
 <!--END_SECTION:waka-->
 
 ### Books
