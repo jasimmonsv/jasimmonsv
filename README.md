@@ -44,7 +44,7 @@ He is an experienced IT professional with 15+ years system administration, 18+ y
 
 > 🏆 26 Contributions in the Year 2021
  > 
-> 📦 626.3 kB Used in GitHub's Storage 
+> 📦 626.4 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -81,18 +81,16 @@ Sunday       18 commits     ██████░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-Python                   2 hrs 46 mins       █████████████████████████   99.65% 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.35%
+No Activity Tracked This Week
 
 🔥 Editors: 
-PyCharmCore              2 hrs 46 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Cryptanalysis            2 hrs 46 mins       █████████████████████████   99.73% 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.27%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  2 hrs 46 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -113,7 +111,7 @@ HTML                     3 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/jasimmonsv/jasimmonsv/main/charts/bar_graph.png) 
 
 
- Last Updated on 13/11/2021
+ Last Updated on 14/11/2021
 <!--END_SECTION:waka-->
 
 ### Books
