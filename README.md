@@ -81,18 +81,16 @@ Sunday       18 commits     ███████░░░░░░░░░░�
 ⌚︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-TypeScript               59 mins             ███████████████████████░░   94.09% 
-JSON                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   5.69% 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.22%
+No Activity Tracked This Week
 
 🔥 Editors: 
-Vim                      1 hr 3 mins         █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-AdventOfCode2021         1 hr 3 mins         █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    1 hr 3 mins         █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -113,7 +111,7 @@ HTML                     3 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/jasimmonsv/jasimmonsv/main/charts/bar_graph.png) 
 
 
- Last Updated on 29/12/2021
+ Last Updated on 30/12/2021
 <!--END_SECTION:waka-->
 
 ### Books
