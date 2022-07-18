@@ -83,16 +83,18 @@ Sunday       18 commits     ████████░░░░░░░░░�
 ⌚︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 18 mins             ██████████░░░░░░░░░░░░░░░   40.22% 
+Other                    15 mins             ████████░░░░░░░░░░░░░░░░░   33.62% 
+YAML                     12 mins             ██████░░░░░░░░░░░░░░░░░░░   26.16%
 
 🔥 Editors: 
-No Activity Tracked This Week
+Vim                      46 mins             █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+opencti-docker           46 mins             █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    46 mins             █████████████████████████   100.0%
 
 ```
 
@@ -113,7 +115,7 @@ HTML                     3 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/jasimmonsv/jasimmonsv/main/charts/bar_graph.png) 
 
 
- Last Updated on 17/07/2022 04:20:26 UTC
+ Last Updated on 18/07/2022 04:26:14 UTC
 <!--END_SECTION:waka-->
 
 ### Books
