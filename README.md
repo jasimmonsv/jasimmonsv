@@ -40,13 +40,13 @@ He is an experienced IT professional with 15+ years system administration, 18+ y
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
 > 🏆 1 Contributions in the Year 2022
  > 
-> 📦 626.2 kB Used in GitHub's Storage 
+> 📦 626.1 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -83,18 +83,16 @@ Sunday       18 commits     ████████░░░░░░░░░�
 ⌚︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-Markdown                 18 mins             ██████████░░░░░░░░░░░░░░░   40.22% 
-Other                    15 mins             ████████░░░░░░░░░░░░░░░░░   33.62% 
-YAML                     12 mins             ██████░░░░░░░░░░░░░░░░░░░   26.16%
+No Activity Tracked This Week
 
 🔥 Editors: 
-Vim                      46 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-opencti-docker           46 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    46 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -115,7 +113,7 @@ HTML                     3 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/jasimmonsv/jasimmonsv/main/charts/bar_graph.png) 
 
 
- Last Updated on 24/07/2022 04:18:05 UTC
+ Last Updated on 25/07/2022 04:27:52 UTC
 <!--END_SECTION:waka-->
 
 ### Books
