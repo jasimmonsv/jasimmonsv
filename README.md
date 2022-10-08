@@ -32,11 +32,11 @@ He is an experienced IT professional with 15+ years system administration, 18+ y
 <!-- ![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a) -->
 
 ## Stats
+[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/jasimmonsv.png)](https://tryhackme.com/p/jasimmonsv)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jasimmonsv&layout=compact&hide=php)](https://github.com/jasimmonsv)
 
 [![jasimmonsv's github stats](https://github-readme-stats.vercel.app/api?username=jasimmonsv)](https://github.com/jasimmonsv/github-readme-stats)
-
-[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/jasimmonsv.png)](https://tryhackme.com/p/jasimmonsv)
 
 ### Waka time
 <!--START_SECTION:waka-->
