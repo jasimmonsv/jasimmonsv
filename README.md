@@ -38,7 +38,7 @@ He is an experienced IT professional with 15+ years system administration, 18+ y
 
 [![jasimmonsv's github stats](https://github-readme-stats.vercel.app/api?username=jasimmonsv)](https://github.com/jasimmonsv/github-readme-stats)
 
-[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/jasimmonsv.jpng)](https://tryhackme.com/p/jasimmonsv)
+[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/jasimmonsv.png)](https://tryhackme.com/p/jasimmonsv)
 
 ### Waka time
 
