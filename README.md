@@ -1,5 +1,5 @@
 # J.A. Simmons V
-:construction_worker: #OpenForWork
+:construction_worker: #OpenForWork 
 
 J.A. Simmons V is an entrepreneur, autodidact, and polymath with a penchant for security, design and above all, usefulness.
 
