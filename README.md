@@ -3,7 +3,7 @@
 
 J.A. Simmons V is an entrepreneur, autodidact, and polymath with a penchant for security, design and above all, usefulness.
 
-He is an experienced IT professional with 15+ years system administration, 18+ years computer security, 15+ years programming and software development, and 18+ years leadership and management experience (Obviously many at the same time). Always interested in good ideas, brilliant people, and leadership.
+He is an experienced IT professional with 15+ years system administration, 18+ years computer security, 15+ years programming and software development, and 18+ years leadership and management experience (Obviously many at the same time). Always interested in new ideas, interesting conversations, and leadership.
 
 ## Follow Me
 [![KeyBase](https://img.shields.io/keybase/pgp/jasimmonsv?color=33A0FF)](https://keybase.io/jasimmonsv)
