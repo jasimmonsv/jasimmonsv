@@ -43,7 +43,7 @@ He is an experienced IT professional with 15+ years system administration, 18+ y
 ### Waka time
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-144%20hrs%2039%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-145%20hrs%2048%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-19-blue)
 
@@ -109,11 +109,11 @@ Windows                  1 hr 50 mins        ███████████�
 **I Mostly Code in Python** 
 
 ```text
-Python                   13 repos            ████████░░░░░░░░░░░░░░░░░   34.21 % 
-Java                     7 repos             ████░░░░░░░░░░░░░░░░░░░░░   18.42 % 
-JavaScript               5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.16 % 
-PHP                      3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 % 
-HTML                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 % 
+Python                   14 repos            █████████░░░░░░░░░░░░░░░░   35.90 % 
+Java                     7 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.95 % 
+JavaScript               5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.82 % 
+PHP                      3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+HTML                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
 
 ```
 
@@ -123,7 +123,7 @@ HTML                     3 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/jasimmonsv/jasimmonsv/main/charts/bar_graph.png) 
 
 
- Last Updated on 12/02/2023 04:07:39 UTC
+ Last Updated on 13/02/2023 04:08:43 UTC
 <!--END_SECTION:waka-->
 
 ### Books
