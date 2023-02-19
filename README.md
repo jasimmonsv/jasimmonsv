@@ -88,19 +88,16 @@ Sunday          21 commits       ███░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-HTML                     58 mins             █████████████████████░░░░   83.55 % 
-Text                     9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.31 % 
-CSS                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   03.10 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-WebStorm                 1 hr 9 mins         █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-cyic_web                 1 hr 9 mins         █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 hr 9 mins         █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 ```
 
@@ -121,7 +118,7 @@ HTML                     3 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/jasimmonsv/jasimmonsv/main/charts/bar_graph.png) 
 
 
- Last Updated on 17/02/2023 04:05:45 UTC
+ Last Updated on 19/02/2023 04:05:43 UTC
 <!--END_SECTION:waka-->
 
 ### Books
