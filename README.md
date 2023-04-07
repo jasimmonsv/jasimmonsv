@@ -51,7 +51,7 @@ He is an experienced IT professional with 15+ years system administration, 18+ y
 
 > 📦 626.5 kB Used in GitHub's Storage 
  > 
-> 🏆 13 Contributions in the Year 2023
+> 🏆 14 Contributions in the Year 2023
  > 
 > 💼 Opted to Hire
  > 
@@ -101,11 +101,11 @@ No Activity Tracked This Week
 **I Mostly Code in Python** 
 
 ```text
-Python                   14 repos            █████████░░░░░░░░░░░░░░░░   35.90 % 
-JavaScript               5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.82 % 
-TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
-Shell                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
-Batchfile                1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
+Python                   14 repos            █████████░░░░░░░░░░░░░░░░   35.00 % 
+JavaScript               5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
+Shell                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
+Batchfile                1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
 ```
 
 
@@ -115,7 +115,7 @@ Batchfile                1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jasimmonsv/jasimmonsv/main/assets/bar_graph.png)
 
 
- Last Updated on 06/04/2023 04:05:48 UTC
+ Last Updated on 07/04/2023 04:05:49 UTC
 <!--END_SECTION:waka-->
 
 ### Books
