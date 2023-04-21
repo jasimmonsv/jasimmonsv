@@ -43,7 +43,7 @@ He is an experienced IT professional with 15+ years system administration, 18+ y
 ### Waka time
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-145%20hrs%2048%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-146%20hrs%2024%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -86,18 +86,19 @@ Sunday                   94 commits          ████░░░░░░░�
 🕑︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-reStructuredText         26 mins             ██████████████████░░░░░░░   72.44 % 
-Python                   9 mins              ███████░░░░░░░░░░░░░░░░░░   27.56 % 
+Python                   26 mins             ████████████░░░░░░░░░░░░░   47.06 % 
+reStructuredText         26 mins             ███████████░░░░░░░░░░░░░░   45.41 % 
+Other                    4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.53 % 
 
 🔥 Editors: 
-Vim                      35 mins             █████████████████████████   100.00 % 
+Vim                      57 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Unknown Project          26 mins             ██████████████████░░░░░░░   72.44 % 
-ML_Proyect_V1            9 mins              ███████░░░░░░░░░░░░░░░░░░   27.56 % 
+Unknown Project          30 mins             █████████████░░░░░░░░░░░░   52.94 % 
+ML_Proyect_V1            26 mins             ████████████░░░░░░░░░░░░░   47.06 % 
 
 💻 Operating System: 
-Linux                    35 mins             █████████████████████████   100.00 % 
+Linux                    57 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -117,7 +118,7 @@ Batchfile                1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jasimmonsv/jasimmonsv/main/assets/bar_graph.png)
 
 
- Last Updated on 20/04/2023 04:06:01 UTC
+ Last Updated on 21/04/2023 04:05:56 UTC
 <!--END_SECTION:waka-->
 
 ### Books
