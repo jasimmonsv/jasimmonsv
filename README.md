@@ -43,7 +43,7 @@ He is an experienced IT professional with 15+ years system administration, 18+ y
 ### Waka time
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-146%20hrs%2024%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-146%20hrs%2046%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -118,7 +118,7 @@ Batchfile                1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jasimmonsv/jasimmonsv/main/assets/bar_graph.png)
 
 
- Last Updated on 21/04/2023 04:05:56 UTC
+ Last Updated on 22/04/2023 04:06:25 UTC
 <!--END_SECTION:waka-->
 
 ### Books
