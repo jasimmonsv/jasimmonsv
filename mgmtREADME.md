@@ -9,8 +9,6 @@ Between Texas high-school football and 5 years in the Navy, I am accustom to bei
 
 I spent 5 years in the Navy, and that is where a lot of my first management experiences where formed. E.g., I always try to be 10 minutes early to every meeting. If you are on time and I am not on the call, something in my usual system (detailed below) has failed and I have forgot. Ping me; Remind me that I am suppose to be meeting you somewhere. With that said, if you are late, I will also ping you, but I will leave that meeting 10 minutes after the start time.
 
-I sometimes use "colorful" language. This is an artifact from said time in the Navy. I am working on it.
-
 ### Prerequisites
 
 Each team has a different culture, a different mood, etc. I do not manage the same way for everyone, but I always lead the same way.
