@@ -1,4 +1,4 @@
-# J.A. Simmons V
+# [J.A. Simmons V](https://github.com/jasimmonsv)
 v1.0.2-20201028 - Principal @RedKeep
 
 This document is a method for team members to get to know me at scale, where I will share my expectations on how to work with me and how I will try to work with you. This is an intro into my mind and how I like to operate: my mental and operational frameworks. I believe that these topics would help you become more effective and reduce managerial overhead on my side. This document is written in the style of a project README.md.
