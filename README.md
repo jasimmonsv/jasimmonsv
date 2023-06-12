@@ -15,6 +15,7 @@ He is an experienced IT professional with 15+ years system administration, 18+ y
 [![Mastodon](https://img.shields.io/badge/-Mastodon-information?style=flat&logo=Mastodon&logoColor=white&color=2F2A6B&link=https://hachyderm.io/users/jasimmonsv/remote_follow)](https://hachyderm.io/users/jasimmonsv/remote_follow)
 [![Twitter](https://img.shields.io/badge/-Twitter-informational?style=flat&logo=Twitter&logoColor=white&color=1DA1F2&link=https://twitter.com/jasimmonsv)](https://twitter.com/jasimmonsv)
 [![Pluralsight](https://img.shields.io/badge/-PluralSight-informational?style=flat&logo=pluralsight&logoColor=black)](https://app.pluralsight.com/profile/jasimmonsv)
+[![Duolingo](https://img.shields.io/badge/-Duolingo-informational?style=flat&logo=duolingo&logoColor=black)](https://www.duolingo.com/profile/jasimmonsv)
 
 ## Languages
 [![Code-Python](https://img.shields.io/badge/Code-Python-success?style=flat&logo=python&logoColor=white)](https://github.com/jasimmonsv?tab=repositories&language=python)
