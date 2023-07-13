@@ -47,7 +47,7 @@ He is an experienced IT professional with 15+ years system administration, 18+ y
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-173%20hrs%2015%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
@@ -126,7 +126,7 @@ Batchfile                1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jasimmonsv/jasimmonsv/main/assets/bar_graph.png)
 
 
- Last Updated on 12/07/2023 04:05:59 UTC
+ Last Updated on 13/07/2023 04:06:16 UTC
 <!--END_SECTION:waka-->
 
 ### Books
