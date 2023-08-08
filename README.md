@@ -3,7 +3,9 @@
 
 J.A. Simmons V is an entrepreneur, autodidact, and polymath with a penchant for security, design and above all, usefulness.
 
-He is an experienced IT professional with 15+ years system administration, 18+ years computer security, 15+ years programming and software development, and 18+ years leadership and management experience (Obviously many at the same time). Always interested in new ideas, interesting conversations, and leadership.
+As a pragmatic and results-driven IT leader with 15+ years of experience, I pride myself on applying personal integrity, strong technical acumen, and exceptional people leadership skills to propel organizations toward their short and long-term goals. A strategic thinker with an unparalleled people focus, I have crafted solutions and high-performance teams to innovate and implement positive changes organization-wide. I specialize in cybersecurity and DevOps, and I am dedicated to improvement. Over the years, my teams have successfully eliminated redundancies, boosted efficiency, and increased productivity. I have a proven track record of strengthening relationships, and communicating to mentor employees, ensuring projects meet and exceed expectations. I am known for blending foresight, analytical thinking, and a dedication to empowering the professionals around me throughout every endeavor.
+
+Connect with me today to discover how I can take your organization to the next level of success!
 
 ## Follow Me
 [![KeyBase](https://img.shields.io/keybase/pgp/jasimmonsv?color=33A0FF)](https://keybase.io/jasimmonsv)
