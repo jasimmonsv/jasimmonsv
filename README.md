@@ -55,8 +55,6 @@ Connect with me today to discover how I can take your organization to the next l
 
 > 📦 631.5 kB Used in GitHub's Storage 
  > 
-> 🏆 9 Contributions in the Year 2024
- > 
 > 💼 Opted to Hire
  > 
 > 📜 64 Public Repositories 
@@ -123,7 +121,7 @@ Batchfile                1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jasimmonsv/jasimmonsv/main/assets/bar_graph.png)
 
 
- Last Updated on 28/03/2024 04:05:41 UTC
+ Last Updated on 29/03/2024 04:06:44 UTC
 <!--END_SECTION:waka-->
 
 ### Books
