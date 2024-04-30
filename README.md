@@ -55,7 +55,7 @@ Connect with me today to discover how I can take your organization to the next l
 
 > 📦 631.5 kB Used in GitHub's Storage 
  > 
-> 🏆 9 Contributions in the Year 2024
+> 🏆 0 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -90,19 +90,16 @@ Sunday                   150 commits         ████░░░░░░░�
 🕑︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-Python                   3 hrs 33 mins       █████████████████████████   99.11 % 
-YAML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
-TOML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
-INI                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-PyCharm                  3 hrs 35 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-cyicBot                  3 hrs 35 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  3 hrs 35 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -122,7 +119,7 @@ Batchfile                1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jasimmonsv/jasimmonsv/main/assets/bar_graph.png)
 
 
- Last Updated on 29/04/2024 04:06:07 UTC
+ Last Updated on 30/04/2024 04:06:33 UTC
 <!--END_SECTION:waka-->
 
 ### Books
