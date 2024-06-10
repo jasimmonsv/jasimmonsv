@@ -90,16 +90,20 @@ Sunday                   166 commits         ████░░░░░░░�
 🕑︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+YAML                     0 secs              ███████████░░░░░░░░░░░░░░   43.99 % 
+Python                   0 secs              ████████░░░░░░░░░░░░░░░░░   33.58 % 
+Markdown                 0 secs              █████░░░░░░░░░░░░░░░░░░░░   18.99 % 
+TOML                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.65 % 
+INI                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+PyCharm                  0 secs              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+cyicBot                  0 secs              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  0 secs              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -119,7 +123,7 @@ Batchfile                1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jasimmonsv/jasimmonsv/main/assets/bar_graph.png)
 
 
- Last Updated on 09/06/2024 04:06:07 UTC
+ Last Updated on 10/06/2024 04:07:23 UTC
 <!--END_SECTION:waka-->
 
 ### Books
