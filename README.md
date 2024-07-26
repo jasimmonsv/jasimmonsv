@@ -47,6 +47,8 @@ Connect with me today to discover how I can take your organization to the next l
 ### Waka time
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-242%20hrs%2035%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
@@ -117,7 +119,7 @@ Batchfile                1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jasimmonsv/jasimmonsv/main/assets/bar_graph.png)
 
 
- Last Updated on 25/07/2024 04:06:40 UTC
+ Last Updated on 26/07/2024 04:06:29 UTC
 <!--END_SECTION:waka-->
 
 ### Books
