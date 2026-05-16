@@ -47,6 +47,8 @@ Connect with me today to discover how I can take your organization to the next l
 ### Waka time
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-242%20hrs%2035%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -61,6 +63,45 @@ Connect with me today to discover how I can take your organization to the next l
  > 
 > 🔑 24 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                134 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.04 % 
+🌆 Daytime                701 commits         █████████████░░░░░░░░░░░░   52.55 % 
+🌃 Evening                420 commits         ████████░░░░░░░░░░░░░░░░░   31.48 % 
+🌙 Night                  79 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.92 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   91 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.82 % 
+Tuesday                  76 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.70 % 
+Wednesday                371 commits         ███████░░░░░░░░░░░░░░░░░░   27.81 % 
+Thursday                 99 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.42 % 
+Friday                   167 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.52 % 
+Saturday                 310 commits         ██████░░░░░░░░░░░░░░░░░░░   23.24 % 
+Sunday                   220 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.49 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/Chicago
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -78,7 +119,7 @@ Batchfile                1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jasimmonsv/jasimmonsv/main/assets/bar_graph.png)
 
 
- Last Updated on 15/05/2026 05:24:25 UTC
+ Last Updated on 16/05/2026 05:10:35 UTC
 <!--END_SECTION:waka-->
 
 ### Books
