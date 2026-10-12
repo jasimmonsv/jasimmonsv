@@ -111,8 +111,8 @@ No AI Coding Activity Tracked This Week
 **I Mostly Code in Python** 
 
 ```text
-Python                   15 repos            █████████░░░░░░░░░░░░░░░░   35.71 % 
-HTML                     4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
+Python                   16 repos            ██████████░░░░░░░░░░░░░░░   38.10 % 
+JavaScript               5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.90 % 
 TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
 Shell                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
 Batchfile                1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
@@ -125,7 +125,7 @@ Batchfile                1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jasimmonsv/jasimmonsv/main/assets/bar_graph.png)
 
 
- Last Updated on 11/10/2026 10:39:59 UTC
+ Last Updated on 12/10/2026 11:44:05 UTC
 <!--END_SECTION:waka-->
 
 ### Books
